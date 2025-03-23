@@ -26,4 +26,3 @@ Go to W3schools and past the following into the html try yourself:
     </script>
 </html>
 ```
-```
