@@ -13,7 +13,7 @@ Go to W3schools and past the following into the html try yourself:
     <button id="openContentBtn">Launch</button>
     <script>
         document.getElementById('openContentBtn').addEventListener('click', function() {
-            var url = 'https://raw.githubusercontent.com/Instel12/archives/refs/heads/main/pages/gameroom01/assets/ID6.html';
+            var url = 'https://raw.githubusercontent.com/Instel12/Eagler-Revive/refs/heads/main/app.html';
             fetch(url)
                 .then(response => response.text())
                 .then(content => {
