@@ -1,7 +1,8 @@
 # Eagler-Revive
 Go to W3schools and past the following into the html try yourself:
-```<html lang="en">
-	<h1>Eagler Revive</h1>
+```
+<html lang="en">
+    <h1>Eagler Revive</h1>
     <span style="color: red;">Make sure Github Raw is unblocked!</span>
     <p>
     Credits:
@@ -24,4 +25,5 @@ Go to W3schools and past the following into the html try yourself:
         });
     </script>
 </html>
+```
 ```
