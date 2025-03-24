@@ -11,6 +11,7 @@ Go to W3schools and past the following into the html try yourself:
     <li>lax1dude - Made the Eaglercraft Client</li>
     <br>
     <button id="openContentBtn">Launch</button>
+    <p style="color: lightgrey; font-size: 10px;">Note: You may need to click twice for this to work depending on your browsers's settings.</p>
     <script>
         document.getElementById('openContentBtn').addEventListener('click', function() {
             var url = 'https://raw.githubusercontent.com/Instel12/Eagler-Revive/refs/heads/main/app.html';
@@ -21,7 +22,6 @@ Go to W3schools and past the following into the html try yourself:
                     newWindow.document.write(content);
                     newWindow.document.close();
                 })
-
         });
     </script>
 </html>
